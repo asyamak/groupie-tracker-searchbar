@@ -1,6 +1,6 @@
 # GROUPIE-TRACKER  SEARCH BAR
 
-is a project  main task is unparse data from a given API and manipulate received data into a site
+project's  main task is unparse data from a given API and manipulate received data into a site
 
 
 ## To initialize project :
